@@ -13,7 +13,7 @@ A simple shell program which display our internet ip address from linux.
 
 + git clone https://github.com/r3k4t/shellshowmyip.git
 + cd shellshowmyip
-+ sudo bash shellshowip.sh
++ sudo bash shellshowmyip.sh
 
 
 
